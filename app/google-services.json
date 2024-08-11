@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30404109950",
+    "project_id": "bantuanku-d9d72",
+    "storage_bucket": "bantuanku-d9d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30404109950:android:58c2e379ba8404d362da2f",
+        "android_client_info": {
+          "package_name": "com.sosial.bantuanku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaZc3oEW_hSU3OUe1bjq7-t6pbkYc_EmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Style untuk ActionBar -->
+    <style name="ActionBarStyle" parent="Widget.AppCompat.ActionBar.Solid">
+        <item name="android:titleTextStyle">@style/ActionBarTitleText</item>
+    </style>
+
+    <style name="ActionBarTitleText">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <!-- Tema utama aplikasi -->
+    <style name="Theme.Bantuanku" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="background">@color/cream</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="actionBarStyle">@style/ActionBarStyle</item>
+        <item name="android:windowBackground">@color/cream</item>
+    </style>
+</resources>
+

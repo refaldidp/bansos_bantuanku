@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bantuanku</string>
+    <string name="programke1">
+        1. Program Keluarga Harapan (PKH)\n\nPKH merupakan bantuan tahunan yang diberikan oleh Pemerintah kepada Keluarga Penerima Manfaat (KPM) yang terdaftar di Daftar Terpadu Kesejahteraan Sosial (DTKS) Kemensos. Di Februari dilakukan penyaluran tahap pertama untuk  triwulan I (3 bulan).\n\nPKH diberikan untuk membantu masyarakat tidak mampu khususnya dalam aspek kesejahteraan, pendidikan dan kesehatan. Besarannya yaitu PKH kepada ibu hamil dan anak balita sebesar Rp3 juta per tahun.\n\nUntuk pendidikan, pemerintah memberikan anak-anak SD bantuan sebesar Rp900 ribu per tahun, anak SMP Rp1,5 juta per tahun, dan anak SMA Rp2 juta per tahun. Sementara, untuk kesejahteraan, keluarga yang memiliki anggota berusia di atas 60 tahun dan penyandang disabilitas akan menerima Rp2,4 juta per tahun.
+    </string>
+    <string name="programke2">2. Bantuan Pangan Non Tunai\n\
+Bantuan Pangan Non Tunai (BNPT)/Kartu Sembako juga diberikan kepada Keluarga Penerima Manfaat (KPM) berdasarkan DTKS.  Penyaluran Kartu Sembako di Februari untuk periode Bulan Januari dan Februari (2 bulan).
+Meskipun namanya BPNT, masyarakat tetap mendapatkan dalam bentuk uang. Jumlah yang diterima sebesar Rp200.000 per bulan dan dibagikan dua bulan sekali sehingga dalam satu tahun ada 6 tahap penyaluran dan KPM akan menerima Rp400.000 dalam sekali pencairan.\n\
+</string>
+    <string name="programke3">3. Bantuan Pangan Beras\n\
+Bantuan Pangan Beras sebesar 10kg/KPM dengan kualitas beras CBP medium. Program Bantuan Pangan Beras diharapkan mampu menjaga stabilitas pangan dan menekan inflasi.  Penerima manfaat Bantuan Pangan Beras diambil menggunakan data P3KE dan penyaluran untuk 3 bulan pertama.
+    </string>
+    <string name="programke4">4. BLT Mitigasi Risiko Pangan\n\
+Setelah BLT Elnino selesai di tahun 2023, untuk memitigasi risiko kenaikan harga pangan sebagai dampak ketidakpastian global, maka dilaksanakan BLT Lanjutan penebalan Kartu Sembako/BLT Mitigasi Risiko Pangan. Keluarga Penerima Manfaat (KPM) sama dengan penerima BPNT/Kartu Sembako. Penyaluran di Bulan Februari untuk tahap I (3 bulan).
+    </string>
+    <string-array name="program_array">
+        <item>Pilih Program</item>
+        <item>Program 1</item>
+        <item>Program 2</item>
+        <item>Program 3</item>
+        <item>Program 4</item>
+    </string-array>
+</resources>

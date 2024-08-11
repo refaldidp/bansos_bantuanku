@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_pengajuan"
+        android:icon="@drawable/ic_add"
+        android:title="Pengajuan" />
+    <item
+        android:id="@+id/nav_pendaftar"
+        android:icon="@drawable/ic_pendaftar"
+        android:title="Pendaftar" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile" />
+
+</menu>
